@@ -43,5 +43,5 @@ plt.show()
 ## Output
 <img width="908" height="495" alt="image" src="https://github.com/user-attachments/assets/539a8e59-56f1-4af8-a533-e6a5c2cc8261" />
 
-Result
+## Result
 The Canny Edge Detection algorithm was successfully implemented using OpenCV. The grayscale input image was denoised using a Gaussian blur, and the edges of the objects (facial features, hair, and clothing outline) were accurately detected and highlighted in the output image, thereby verifying the working of the Canny edge detection technique.
